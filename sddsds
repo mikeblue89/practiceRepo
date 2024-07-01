@@ -1,0 +1,29 @@
+[33mcommit a269380babec8c851645acf099c1d7cbfe094f75[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/restructure[m[33m, [m[1;32mmaster[m[33m)[m
+Author: mikeblue89 <45115688+mikeblue89@users.noreply.github.com>
+Date:   Mon Jul 1 17:42:44 2024 -0600
+
+    docs(index.html): added css file and logo
+
+[33mcommit e9f3b1d185cc59a2708c6e622bc68757b318f299[m
+Author: mikeblue89 <45115688+mikeblue89@users.noreply.github.com>
+Date:   Mon Jul 1 17:36:16 2024 -0600
+
+    Revert "docs(index.html): added link"
+    
+    This reverts commit 0ccc842105ed14ff0308623c1b1a96bc08f52124.
+    
+    Reverting link
+
+[33mcommit 0ccc842105ed14ff0308623c1b1a96bc08f52124[m
+Author: mikeblue89 <45115688+mikeblue89@users.noreply.github.com>
+Date:   Mon Jul 1 17:32:27 2024 -0600
+
+    docs(index.html): added link
+
+[33mcommit 3cacff4d27769f40d0cdc4de5e1cc67fd3b79cbf[m
+Author: mikeblue89 <45115688+mikeblue89@users.noreply.github.com>
+Date:   Mon Jul 1 17:30:09 2024 -0600
+
+    docs: index.html
+    
+    initial commit
